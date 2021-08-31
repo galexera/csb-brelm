@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://galexera.github.io/csb-brelm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://galexera.github.io/csb-brelm/static/js/main.540fcbe2.chunk.js",
+    "main.js.map": "https://galexera.github.io/csb-brelm/static/js/main.540fcbe2.chunk.js.map",
+    "runtime-main.js": "https://galexera.github.io/csb-brelm/static/js/runtime-main.9f6f8742.js",
+    "runtime-main.js.map": "https://galexera.github.io/csb-brelm/static/js/runtime-main.9f6f8742.js.map",
+    "static/js/2.6cf7854c.chunk.js": "https://galexera.github.io/csb-brelm/static/js/2.6cf7854c.chunk.js",
+    "static/js/2.6cf7854c.chunk.js.map": "https://galexera.github.io/csb-brelm/static/js/2.6cf7854c.chunk.js.map",
+    "index.html": "https://galexera.github.io/csb-brelm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://galexera.github.io/csb-brelm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6cf7854c.chunk.js.LICENSE.txt": "https://galexera.github.io/csb-brelm/static/js/2.6cf7854c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f6f8742.js",
+    "static/js/2.6cf7854c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.540fcbe2.chunk.js"
+  ]
+}
